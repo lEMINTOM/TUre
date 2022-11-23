@@ -1,0 +1,2 @@
+# PRue
+estructura inicial
